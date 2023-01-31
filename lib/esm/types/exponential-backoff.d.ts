@@ -1,0 +1,2 @@
+export declare function exponentialBackoff(maxTries: number, delay: number, retryableStatuses?: number[]): import("rxjs").UnaryFunction<import("rxjs").Observable<unknown>, import("rxjs").Observable<unknown>>;
+//# sourceMappingURL=exponential-backoff.d.ts.map
