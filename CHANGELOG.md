@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/uzenith360/http-utils/compare/v1.0.2...v1.1.0) (2023-02-04)
+
+
+### Features
+
+* add httpstatus enum ([30e08fe](https://github.com/uzenith360/http-utils/commit/30e08fea1f3d339187c9b903df459765596a1f7f))
+
 ## [1.0.2](https://github.com/uzenith360/http-utils/compare/v1.0.1...v1.0.2) (2023-01-31)
 
 
