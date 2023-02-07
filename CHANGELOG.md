@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/uzenith360/http-utils/compare/v1.1.0...v1.2.0) (2023-02-07)
+
+
+### Features
+
+* add PaginatedResult ([f48d27d](https://github.com/uzenith360/http-utils/commit/f48d27d194df30399db419cc507919eefed09a3e))
+
 # [1.1.0](https://github.com/uzenith360/http-utils/compare/v1.0.2...v1.1.0) (2023-02-04)
 
 
