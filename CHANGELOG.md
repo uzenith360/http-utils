@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/uzenith360/http-utils/compare/v1.2.1...v1.3.0) (2023-02-15)
+
+
+### Features
+
+* add HandledHttpResponse ([4f88730](https://github.com/uzenith360/http-utils/commit/4f887304097fbf5ded9b6aefb1d00acb35221165))
+
 ## [1.2.1](https://github.com/uzenith360/http-utils/compare/v1.2.0...v1.2.1) (2023-02-07)
 
 
