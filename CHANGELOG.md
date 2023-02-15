@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/uzenith360/http-utils/compare/v1.2.0...v1.2.1) (2023-02-07)
+
+
+### Bug Fixes
+
+* add limit and page parameters to paginated result interface ([a75f9d9](https://github.com/uzenith360/http-utils/commit/a75f9d9badb0e0d7627c14e13f28e04e61b76c03))
+
 # [1.2.0](https://github.com/uzenith360/http-utils/compare/v1.1.0...v1.2.0) (2023-02-07)
 
 
