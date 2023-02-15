@@ -1,4 +1,5 @@
 import { exponentialBackoff } from "./exponential-backoff";
+import HandledHttpResponse from "./handled-http-response.type";
 import { HttpError } from "./http-error";
 import { httpRetry } from "./http-retry";
 import httpStatus from "./http-status.enum";
@@ -10,4 +11,5 @@ export {
     httpStatus,
     PaginatedResult,
     exponentialBackoff,
+    HandledHttpResponse,
 };
