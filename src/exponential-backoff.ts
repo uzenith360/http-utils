@@ -1,7 +1,7 @@
 import { of, pipe, range, throwError, timer, zip } from 'rxjs';
 import { map, mergeMap, retryWhen } from 'rxjs/operators';
 
-export function exponentialBackoff(maxTries: number, delay: number, retryableStatuses: number[] = [0, 500]) {
+export function exponentialBackoff(maxTries: number, delay: number, retryableStatuses: number[] = [0, 500, 502]) {
     return pipe(
       retryWhen(attempts =>
         zip(range(1, maxTries + 1), attempts).pipe(
