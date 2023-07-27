@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/uzenith360/http-utils/compare/v1.3.0...v1.3.1) (2023-07-27)
+
+
+### Bug Fixes
+
+* add 502 to default retryable errors ([a2ebe67](https://github.com/uzenith360/http-utils/commit/a2ebe6763d9a4a7d65f1fb8b3a1bab761b68673b))
+
 # [1.3.0](https://github.com/uzenith360/http-utils/compare/v1.2.1...v1.3.0) (2023-02-15)
 
 
