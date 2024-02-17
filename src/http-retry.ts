@@ -6,7 +6,7 @@ import { retryWhen, delay, take, concatMap } from 'rxjs/operators';
 export function httpRetry(
   maxTries: number = 5,
   delayMs: number = 700,
-  retryableStatuses: number[] = [0, 500, 502, 504],
+  retryableStatuses: number[] = [0, 500, 502, 503, 504],
 ): any {
   return retryWhen(
     errors =>
