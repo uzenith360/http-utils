@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/uzenith360/http-utils/compare/v1.3.3...v1.3.4) (2025-01-19)
+
+
+### Bug Fixes
+
+* rxjs imports ([73c0b03](https://github.com/uzenith360/http-utils/commit/73c0b036a24f557498c77dd8ea3dc5ddd3055f56))
+
 ## [1.3.3](https://github.com/uzenith360/http-utils/compare/v1.3.2...v1.3.3) (2024-02-17)
 
 
