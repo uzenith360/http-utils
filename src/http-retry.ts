@@ -1,7 +1,6 @@
 
 
-import { throwError, of } from 'rxjs';
-import { retryWhen, delay, take, concatMap } from 'rxjs/operators';
+import { throwError, of, retryWhen, delay, take, concatMap } from 'rxjs';
 
 export function httpRetry(
   maxTries: number = 5,
